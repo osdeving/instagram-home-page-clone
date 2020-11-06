@@ -11,4 +11,5 @@ Esse projetinho faz parte do bootcamp **everis FullStack Developer** na platafor
 
 https://web.digitalinnovation.one/home
 
-Codado por Willams "osdeving" Sousa :)
+Codado por Willams "osdeving" Sousa
+Tutoria de Gabriela Pinheiro :)
