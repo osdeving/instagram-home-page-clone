@@ -7,6 +7,10 @@ Esse projetinho faz parte do bootcamp **everis FullStack Developer** na platafor
 - HTML5
 - CSS3
 
+### Aí vai uma print
+
+![print](https://github.com/osdeving/instagram-home-page-clone/blob/master/instagram.png?raw=true)
+
 #### Referências
 
 https://web.digitalinnovation.one/home
